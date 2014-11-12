@@ -13,5 +13,3 @@ When we want to do some experimental features.  We can experiement the new featu
 How do the diagrams help you visualize the branch structure?
 It gives you a visualization of the branches.  
 
-How can you use the staging area to make sure you have one commit per logical change?
-use git diff --staged to see what are the changes between staging area and the most recent commit.

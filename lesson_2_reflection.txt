@@ -13,3 +13,6 @@ When we want to do some experimental features.  We can experiement the new featu
 How do the diagrams help you visualize the branch structure?
 It gives you a visualization of the branches.  
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+After merging two branches, the two branches become one.  All commits from the two branches are reachable from the merged branch.  
+

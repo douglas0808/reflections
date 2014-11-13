@@ -5,3 +5,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You can review the changes on GitHub before accepting the changes into your own Git.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks happens only on GitHub.  Go to the repository you want to fork and add it to your GitHub as a fork.
+You can clone a repository from GitHub to your git, or on your own computer.
+You create a branch of your repository if you want to test some new features or do some experiements.  You can later either merge the branches. 

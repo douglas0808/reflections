@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+1.When you are working with someone on the same project.  
+2.When you want files resided on several computers synchronized.
+3.When you don't have access to your own computer, you can still work on github.

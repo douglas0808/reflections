@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks happens only on GitHub.  Go to the repository you want to fork and add it to your GitHub as a fork.
 You can clone a repository from GitHub to your git, or on your own computer.
 You create a branch of your repository if you want to test some new features or do some experiements.  You can later either merge the branches. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can work offline. You can diff the local brnach with the remote branch.
